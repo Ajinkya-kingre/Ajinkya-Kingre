@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Kingre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkya-kingre" alt="ajinkya-kingre" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajinkyakingre" target="blank"><img src="https://img.shields.io/twitter/follow/ajinkyakingre?logo=twitter&style=for-the-badge" alt="ajinkyakingre" /></a> </p>
 
 - 🌱 I’m currently learning **next.js, typescript and tailwind**
 
