@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ajinkyavk143@gamil.com**
 
-- ⚡ Fun fact **I love JavaScript";**
+- ⚡ Fun fact **I love JAVASCRIPT;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
