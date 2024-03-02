@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **next.js, typescript and tailwind**
+- 🌱 I’m currently learning **node,js, express.js and mongoDB**
 
 - 💬 Ask me about **react, javascript**
 
