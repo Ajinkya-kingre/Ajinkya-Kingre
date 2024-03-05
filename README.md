@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya-kingre&" alt="ajinkya-kingre" /></p>
 
- <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
+ <p><img src="https://komarev.com/ghpvc/?username=Ajinkya-Kingre" alt="sadanandpai" /></p>
