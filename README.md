@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajinkya-kingre&show_icons=true&locale=en&layout=compact" alt="ajinkya-kingre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya-kingre&" alt="ajinkya-kingre" /></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilkamble02&label=Profile%20views&color=0e75b6&style=flat)
