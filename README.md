@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya-kingre&" alt="ajinkya-kingre" /></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilkamble02&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ajinkya-Kingre&label=Profile%20views&color=0e75b6&style=flat)
